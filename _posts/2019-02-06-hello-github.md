@@ -8,4 +8,3 @@ published: true
 Detta ar mitt forsta forsok med Jekyll och GitHub-pages.
 
 > Blockquote
-
