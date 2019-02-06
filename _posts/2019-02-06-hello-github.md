@@ -5,6 +5,4 @@ image: /img/hello_world.jpeg
 published: true
 ---
 
-Detta ar mitt forsta forsok med Jekyll och GitHub-pages.
-
-> Blockquote
+Detta är mitt första försök med Jekyll och GitHub-pages.
